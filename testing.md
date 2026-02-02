@@ -1,0 +1,1 @@
+Rayane has been added to the contributors list
