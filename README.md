@@ -9,3 +9,4 @@ This is an app to vote for ideas to work on.
 
 - [Mohammed Essaid MEZERREG](https://github.com/mohessaid)
 - [Rayane Abderrahmane Belhadj](https://github.com/rayanebelhadj01)
+- [Ayoub Rebai](https://github.com/aygrz)
